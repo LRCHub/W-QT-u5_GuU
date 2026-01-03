@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナンセンスゲーム",
+  "base_artist": "流水",
+  "createdAt": "2026-01-03T12:43:54.730998Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナンセンスゲーム",
+      "artist": "流水",
+      "has_synced": false,
+      "path": "select/pl_01_ナンセンスゲーム_流水.txt"
+    }
+  ]
+}
