@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "ナンセンスゲーム",
+  "base_track": "ナンセンスゲーム（feat. 雨良）",
   "base_artist": "流水",
-  "createdAt": "2026-01-03T12:43:54.730998Z",
+  "createdAt": "2026-02-15T12:08:48.161553Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ナンセンスゲーム",
+      "title": "ナンセンスゲーム (feat. 雨良)",
       "artist": "流水",
       "has_synced": false,
-      "path": "select/pl_01_ナンセンスゲーム_流水.txt"
+      "path": "select/pl_01_ナンセンスゲーム_(feat._雨良)_流水.txt"
     }
   ]
 }
